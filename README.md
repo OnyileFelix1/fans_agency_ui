@@ -1,0 +1,1 @@
+Our Travel Site is a comprehensive platform designed to assist users in planning and booking their travel adventures. It provides information on various destinations, allows users to book flights and accommodations, and facilitates a seamless travel experience.
